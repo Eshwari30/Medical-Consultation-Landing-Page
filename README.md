@@ -1,5 +1,6 @@
 # Medical-Consultation-Landing-Page
-Medical Consultation Booking Landing page built using React.js and Node.js
+
+The Medical Consultation Booking Landing Page is a React.js and Node.js powered web application designed to facilitate seamless scheduling of medical appointments through an intuitive user interface.
 
 ## Overview
 Welcome to the Medical Consultation Booking Form, a user-friendly React application designed to streamline the process of scheduling medical consultations. This application provides a seamless experience for users to book appointments with healthcare professionals, ensuring a convenient and efficient booking process.
